@@ -1,1 +1,1 @@
-# Projeto_venda2
+Projeto da disciplina Linguagem de Programação I. Aprendendo a linguagem Java com orientação a objeto. Grupo: Gabriel Mendes Silva Larissa Maria Ferreira Lucas Zille Cardoso de França Maíra Nathalya Nogueira Micheline da Silveira Mendes
